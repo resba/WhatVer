@@ -1,0 +1,7 @@
+name: WhatVer
+main: com.resbah.WhatVer.WhatVer
+version: v1.0
+commands:
+    whatver:
+        description: A more detailed version of the /ver command. Also differentiates between CraftBukkit and Craftbukkit++
+        usage: /whatver
